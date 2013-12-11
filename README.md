@@ -1,4 +1,4 @@
 resume
 ======
 
-An online resume to test and show off programming skills
+An online resume to test and display programming skills
